@@ -397,7 +397,7 @@ hr{
     font-size: 16px;
     /* border: 2px solid #ffffff; */
     /* border-radius: 50%; */
-    right: 15px;
+    right: 30px;
     bottom: 50px;
     transition: background 0.5s;
     z-index: 11;
@@ -407,7 +407,7 @@ hr{
 
 .back-to-top i {
     padding-top: 10px;
-    font-size: 40px;
+    font-size: 30px;
     
 }
 
