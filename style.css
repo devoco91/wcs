@@ -415,8 +415,8 @@ hr{
 
 @media(max-width:600px){
     .hero_img img{
-        width: 400px !important;
-        margin-left: 20px;
+        width: 300px !important;
+        margin-left: 40px;
     }
 
 
@@ -426,8 +426,8 @@ hr{
 
 
     .card{
-        width: 400px;
-        margin-left:35px !important;
+        width: 300px;
+        margin-left:40px !important;
     }
 
 
